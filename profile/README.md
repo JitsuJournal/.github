@@ -1,12 +1,11 @@
-## Jiu Jitsu Technology? 🤔
+# JitsuJournal? 🤔
 
-We're working on building a tool that allows;
-- coaches to create and share jiu-jitsu content in a normalized format
-- beginners to build their first mental models of jiu-jitsu using a professional framework
+## 🎯 Q1 2025: We're building a tool that allows
+- Practitioners to create jiu-jitsu sequences using a shared and customizable database of techniques.
+- Coaches to create and teach using a framework that all their students understand.
+- Beginners to build their first mental models of jiu-jitsu using the shared database.
 
-This is scheduled to be released in Q1 of 2025. 
-
-Our long-term goal is to develop a system that provides real-time data points from combat sports to athletes, tournaments, and betting leagues (for VFX, odds, and training).
+## Vision
 
 <!--
 
