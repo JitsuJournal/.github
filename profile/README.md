@@ -9,6 +9,12 @@ A basic version of the sequence builder and shared technique database is availab
 ## ⛳️ Vision
 The martial arts software industry is valued at USD 200 million as of 2023 and is projected to reach USD 400 million by 2030. Almost all companies in this space target academy owners by providing them with software to manage finance, marketing, and other enterprise resources. We're taking a diffrent approach by rethinking each practitioners learning experience to actually help them maximize their potential as a martial artist.
 
+## Feature Roadmap 🗺️
+- [X] Sequence builder w/ Shared Technique DB
+- [ ] Progress Tracking
+- [ ] AI Recommendations
+- [ ] Video Analysis
+
 <!--
 
 **Here are some ideas to get you started:**
