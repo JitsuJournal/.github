@@ -5,8 +5,6 @@
 - Coaches to create and teach using a framework that all their students understand.
 - Beginners to build their first mental models of jiu-jitsu using the shared database.
 
-## Vision
-
 <!--
 
 **Here are some ideas to get you started:**
