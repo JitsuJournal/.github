@@ -3,7 +3,7 @@ We're creating a collection of tools by reimagining the jiu-jitsu learning exper
 
 ## Roadmap 🗺️
 - [X] Flowchart Builder
-- [ ] Digital Journal
+- [X] Digital Journal
 - [ ] Video Analyzer
 #### 🚨 [Live: Flowchart Builder w/ Tutorial](https://jitsujournal.com/)
 
