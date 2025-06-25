@@ -4,7 +4,7 @@ We're creating a collection of tools by reimagining the jiu-jitsu learning exper
 ## Roadmap 🗺️
 - [X] Flowchart Builder
 - [X] Digital Journal
-- [X] AI Coach/Suggestions
+- [X] AI Coach/Suggestions (beta - select users, contact if interested)
 - [ ] Video Analyzer
 #### 🚨 [Live: Flowchart Builder w/ Tutorial](https://jitsujournal.com/)
 
